@@ -1,6 +1,8 @@
 # server-update-tool
 基于SSH协议的服务器更新工具，Window10到Linux
 
+**使用前确保服务器安装了tar工具**
+
 使用示例：
 
 ```javascript
