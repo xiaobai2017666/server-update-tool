@@ -2,10 +2,10 @@ const s=require('../main.js');
 
 let n=new s({
     // SSH的配置信息============
-    host: '172.93.47.90',
-    port: 29291,
+    host: '0.0.0.0',
+    port: 1,
     username: 'root',
-    password: 'PQfqwrSFo2CU'
+    password: '********'
     //=========================
 },
 'F:/编程/blog/public', //本地需要上传的文件夹路径，结尾不要带/
